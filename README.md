@@ -8,7 +8,7 @@ UFF SCIFI wireless network is a large-scale wireless developed by Fluminense Fed
 
 # UFF SCIFI Access Points Presented on the Datasets and Data Collection Dates 
 
-We selected, for this study, all the APs located at one specific building from one of the UFF's campuses, called H building. Differently from the other buildings on campus that have professor's offices, laboratories, student unions and other university administration rooms, the H building has only classrooms. So, its occupation mainly occurs through lectures and exam applications. SCIFI network has 28 APs distributed over the 5 floors inside H building. Our data was obtained from the APs event logs. These logs were collected and stored at the SCIFI controller. Each AP sends a text file with all the management and control events information from their physical and data link layers. These data are requested and stored weekly by the controller. We collected data from 6 months, between April and September 2018.
+We selected, for our study, all the APs located at one specific building from one of the UFF's campuses, called H building. Differently from the other buildings on campus that have professor's offices, laboratories, student unions and other university administration rooms, the H building has only classrooms. So, its occupation mainly occurs through lectures and exam applications. SCIFI network has 28 APs distributed over the 5 floors inside H building. Our data was obtained from the APs event logs. These logs were collected and stored at the SCIFI controller. Each AP sends a text file with all the management and control events information from their physical and data link layers. These data are requested and stored weekly by the controller. We collected data from 6 months, between April and September 2018.
 
 # UFF SCIFI Acces Points Utilization Data Collectiona and Filtering and Dataset Construction
 
@@ -40,8 +40,17 @@ The second Dataset is constructed containing the APs occupation status. We can a
 
 If you use ours Datasets in a scientific publication, we would appreciate citations to the following paper:
 
+Apostolo, Guilherme Henrique, et al. "An Experimental Analysis for Detecting Wi-Fi Network Associations Using Multi-label Learning." 2020 International Conference on Systems, Signals and Image Processing (IWSSIP). IEEE, 2020. (accepted to be published)
 
 Bibtex entry:
+
+@inproceedings{apostolo2020experimental,
+  title={An Experimental Analysis for Detecting Wi-Fi Network Associations Using Multi-label Learning},
+  author={Apostolo, Guilherme Henrique and Bernardini, Flavia and Magalhães, Luiz C. Schara and Muchaluat-Saade, Débora C.},
+  booktitle={2020 International Conference on Systems, Signals and Image Processing (IWSSIP)},
+  year={2020},
+  organization={IEEE}
+}
 
 
 # Special Thanks
