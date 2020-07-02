@@ -3,9 +3,9 @@
 # UFF-SCIFI-Datasets
 Access Points (AP) Utilization Datasets from UFF SCIFI wireless network
 
-#Source:
+# Source:
 
-##Donors/Contact
+## Donors/Contact
 
 Guilherme Henrique Apostolo - guilherme_apostolo@midiacom.uff.br
 Luiz Claudio Schara Magalhaes
@@ -16,7 +16,7 @@ Midiacom Lab - Laboratório de Pesquisas em Comunicação de Dados Multimídia, 
 IC UFF - Instituto de Computação, Universidade Federal Fluminense, Av. Gal. Milton Tavares de Souza, s/n - São Domingos, Niterói - RJ, 24210-310
 
 
-##Creators
+## Creators
 
 Guilherme Henrique Apostolo, Luiz Claudio Schara Magalhaes, Débora Christina Muchaluat-Saade, Flávia Bernardini. 
 
