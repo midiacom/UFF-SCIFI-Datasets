@@ -3,6 +3,25 @@
 # UFF-SCIFI-Datasets
 Access Points (AP) Utilization Datasets from UFF SCIFI wireless network
 
+#Source:
+
+##Donors/Contact
+
+Guilherme Henrique Apostolo - guilherme_apostolo@midiacom.uff.br
+Luiz Claudio Schara Magalhaes
+Débora Christina Muchaluat-Saade
+Flávia Bernardini
+SCIFI UFF - http://wifi.uff.br/
+Midiacom Lab - Laboratório de Pesquisas em Comunicação de Dados Multimídia, Universidade Federal Fluminense, Niterói, Brazil - www.midiacom.uff.br
+IC UFF - Instituto de Computação, Universidade Federal Fluminense, Av. Gal. Milton Tavares de Souza, s/n - São Domingos, Niterói - RJ, 24210-310
+
+
+##Creators
+
+Guilherme Henrique Apostolo, Luiz Claudio Schara Magalhaes, Débora Christina Muchaluat-Saade, Flávia Bernardini. 
+
+
+
 # What Is the SCIFI Network
 
 UFF SCIFI wireless network is a large-scale wireless developed by Fluminense Federal University, financed by RNP (Brazilian National Research and Education Network). It was developed to be a low-cost open-source option to the deployment, configuration, operation and management of large-scale wireless network. The SCIFI network is composed of a smart controller, also named SCIFI controller, and low cost APs, operating under the open source OpenWRT firmware.  SCIFI controller is a central management unit and monitoring of UFF's network. The SCIFI network uses the eduroam as the authentication service.  The SCIFI controller coordinates data gathering from system logs, channel selection and access point's transmission power level services. SCIFI network allows an expressive reduction on a large scale wireless network deployment cost, which eases the deployment of bigger networks, with more APs. SCIFI network is used at UFF, Ouro Preto Federal University and Brazilian Navy, as well as in many different events. It has been proven to be a stable, low-cost and easy-to-install solution for controlling wireless APs. 
